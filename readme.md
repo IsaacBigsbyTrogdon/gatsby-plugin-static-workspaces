@@ -14,7 +14,7 @@ where the `node_modules` is potentially not a sibling of `gatsby-config.js`.
           './images',
           './downloads',
         ]
-        destination: `${__dirname}/public`,
+        public: `${__dirname}/public`,
       }
     }
   ]
