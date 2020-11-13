@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-plugin-static-folders",
+  "name": "gatsby-plugin-static-workspaces",
   "version": "1.0.1",
   "description": "Lets you add additional static folders",
-  "author": "Dave Caruso",
+  "author": "Isaac Bigsby Trogdon",
   "license": "MIT",
   "dependencies": {
     "fs-extra": "^7.0.1"
